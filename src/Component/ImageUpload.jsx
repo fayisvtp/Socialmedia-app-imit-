@@ -4,7 +4,7 @@ import insta from '../assets/insta icon.png'
 export default function ImageUpload() {
   return (
     <>
-      <div className="col-12 bg-light shadow d-flex m-5 ">
+      <div className="col-12 bg-light shadow d-flex  ">
         <div className='instabg '>
             <img src={insta} alt="rectange icon " />
         </div>
